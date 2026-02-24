@@ -8,7 +8,7 @@
 
 ## About Ycode
 
-**Ycode is an open source visual website builder and CMS.** It's available as a self-hosted project or as a fully managed [Ycode Cloud](https://www.ycode.com/) service. Either way, you get a powerful visual editor that replaces the frustration of website building with creative flow and full design control. Think of it as an open source alternative to tools like Webflow and Framer — except easier to use and with far more control over your projects.
+**Ycode is an open source visual website builder and CMS.** It's available as a self-hosted [Open Source](https://github.com/ycode/ycode) project or as a fully managed [Ycode Cloud](https://www.ycode.com/) service. Either way, you get a powerful visual editor that replaces the frustration of website building with creative flow and full design control. Think of it as an open source alternative to tools like Webflow and Framer — except easier to use and with far more control over your projects.
 
 Ycode is packed with features designed to help you build professional, responsive websites:
 
