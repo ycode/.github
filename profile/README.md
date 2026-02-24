@@ -12,9 +12,9 @@
 
 Ycode is packed with features designed to help you build professional, responsive websites:
 
-- A visual editor with full design control — pixel-perfect layouts without writing code
+- A visual editor with full design control — pixel-perfect layouts powered by Tailwind CSS, without writing code
 - A built-in CMS to structure and manage your content, with manual entry or bulk imports
-- Forms for contact, newsletter signups, and content filtering — built right in
+- Forms for contact or newsletter signups — built right in
 - SEO tools with optimized controls, fast hosting, and flexible content management
 - Interactions and animations — page load, scroll, click, and hover effects to bring pages to life
 - Localization to design, build, and manage sites in any language
@@ -34,18 +34,10 @@ And [Ycode Cloud](https://www.ycode.com/pricing) gives you even more:
 
 ## Setting Up Ycode Open Source
 
-To self-host Ycode, fork the [ycode/ycode](https://github.com/ycode/ycode) repository. You'll need a GitHub, Supabase, and Vercel account to get started. Full instructions are in the repo.
+To self-host Ycode, fork the [ycode/ycode](https://github.com/ycode/ycode) repository. You'll need a GitHub, Supabase, and Vercel account to get started.
 
 ## Learning Ycode
 
 Ycode has extensive [documentation](https://docs.ycode.com/) and a free [academy](https://www.ycode.com/academy) to help you get up to speed quickly and start building beautiful websites.
-
-## Additional Resources
-
-- [Documentation](https://docs.ycode.com/) — Step-by-step guides and answers to your questions.
-- [Academy](https://www.ycode.com/academy) — Learn Ycode for free.
-- [Discord](https://discord.gg/ycode) — Hang out with the community.
-- [Blog](https://www.ycode.com/blog) — No-code insights and Ycode updates.
-- [Customer Stories](https://www.ycode.com/customer-stories) — See what others are building with Ycode.
 
 You can help with our open source efforts in many ways: by resolving [open issues](https://github.com/ycode/ycode/issues), [improving the docs](https://docs.ycode.com/), or sharing what you've built or learned with the community.
